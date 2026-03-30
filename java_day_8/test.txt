@@ -1,2 +1,1 @@
-Hello, this is my first file.
-Learning Java file handling.
+Hi, This is java
